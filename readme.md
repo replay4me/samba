@@ -32,7 +32,7 @@ Alias the Samba facade by adding it to the aliases array in the `app/config/app.
 
 ***Config Publish***
 ```
-php artisan config:publish eduardostuart/samba
+php artisan config:publish replay4me/samba
 ```
 
 
