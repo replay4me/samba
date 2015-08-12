@@ -11,7 +11,7 @@
 Update your `composer.json` file to include this package as a dependency
 
 ```
-"eduardostuart/samba":"dev-master"
+"replay4me/samba":"dev-master"
 ```
 
 **Service Providers***
