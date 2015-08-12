@@ -1,0 +1,24 @@
+{
+    "name": "eduardostuart/samba",
+    "description": "",
+    "authors": [
+        {
+            "name": "Eduardo Stuart",
+            "email": "contato@eduardostuart.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations",
+            "src/Eduardostuart/Samba/API/Exceptions.php"
+        ],
+        "psr-0": {
+            "Eduardostuart\\Samba\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
